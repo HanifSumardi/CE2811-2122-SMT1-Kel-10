@@ -1,4 +1,5 @@
 Kelompok 10
-Noufal 
-Hanif Sumardi
-M.hafis
+
+Noufal NurMuhammad Putra (2122005)
+Hanif Sumardi (2122021)
+M.Hafis Afrizal (2122003)
